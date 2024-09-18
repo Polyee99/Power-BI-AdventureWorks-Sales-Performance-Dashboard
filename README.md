@@ -11,14 +11,14 @@ Features
     Customer Segmentation: Analysis of customer demographics, buying patterns, and lifetime value.
     Time Analysis: Year-over-year and month-over-month sales comparison to track growth.
 
-Files in the Repository
+📁 Files in the Repository
 
     Sales_Performance_Dashboard.pbix - The Power BI file containing the data model and dashboard.
     sales_data.xlsx - Raw data used for the analysis, including sales transactions, customer details, and product information.
     dashboard_screenshot.png - A screenshot of the main dashboard.
     documentation/ - Contains additional project documentation, including methodology, data cleaning steps, and Power BI setup guide.
 
-Data Sources
+📊 Data Sources
 
 The data used in this project comes from the attached csv files:
 
@@ -26,13 +26,13 @@ The data used in this project comes from the attached csv files:
     Customer Data: Information about customers such as demographics, purchase history, and loyalty program status.
     Product Data: List of all products, including category, subcategory, and cost information.
 
-Requirements
+📋 Requirements
 
     Power BI Desktop (latest version)
     Microsoft Excel (for reviewing raw data)
     Basic understanding of DAX and Power BI visuals
 
-Getting Started
+▶️ Getting Started
 
 To run this Power BI project locally:
 
@@ -50,7 +50,7 @@ To run this Power BI project locally:
 
     Explore the dashboard and interact with the visualizations.
 
-Dashboard Walkthrough
+⚙️ Dashboard Walkthrough
 
     Sales Overview:
         Total sales, transactions, and profit margin.
@@ -72,15 +72,9 @@ Dashboard Walkthrough
         Year-over-year sales comparison to track growth.
         Heatmap of sales by day and month to identify trends and seasonality.
 
-Project Methodology
+🚀 Project Methodology
 
     Data Cleaning: The raw data was cleaned using Power BI's Power Query Editor, ensuring that all records are complete and formatted properly.
     Data Modeling: Relationships were created between sales, customers, and product tables to allow for effective slicing and dicing of the data.
     DAX Calculations: Custom measures were created using DAX (Data Analysis Expressions) to compute KPIs like total revenue, profit margin, and average customer value.
     Visualization: Multiple Power BI visualizations were used, including bar charts, line graphs, maps, and tables to represent different facets of the data.
-
-If you have any questions or suggestions about the project, feel free to contact me at:
-
-    Email: your.email@example.com
-    LinkedIn: Your LinkedIn
-    GitHub: Your GitHub
